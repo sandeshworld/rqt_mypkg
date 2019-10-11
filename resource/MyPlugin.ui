@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="Up">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>100</y>
+     <width>98</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Up</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Down">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>160</y>
+     <width>98</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Down</string>
+   </property>
+  </widget> 
+   <widget class="QPushButton" name="Left">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>130</y>
+     <width>98</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Left</string>
+   </property>
+  </widget> 
+  <widget class="QPushButton" name="Right">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>130</y>
+     <width>98</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Right</string>
+   </property>
+  </widget> 
+  <widget class="QPushButton" name="MUp">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>100</y>
+     <width>98</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>M Up</string>
+   </property>
+  </widget> 
+  <widget class="QPushButton" name="MDown">
+   <property name="geometry">
+    <rect>
+     <x>380</x>
+     <y>160</y>
+     <width>98</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>M Down</string>
+   </property>
+  </widget> 
+   <widget class="QPushButton" name="MLeft">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>130</y>
+     <width>98</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>M Left</string>
+   </property>
+  </widget> 
+  <widget class="QPushButton" name="MRight">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>130</y>
+     <width>98</width>
+     <height>27</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>M Right</string>
+   </property>
+  </widget> 
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
+
